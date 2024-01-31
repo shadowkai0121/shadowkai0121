@@ -5,14 +5,6 @@
         src="https://komarev.com/ghpvc/?username=shadowkai0121&label=Profile%20views&color=0e75b6&style=flat"
         alt="shadowkai0121" /> </p>
 
-<h3 align="left">Connect with me:&nbsp;&nbsp;shadowkai0121@gmail.com</h3>
-<p align="left">
-    <a href="https://www.leetcode.com/shadowkai0121" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-            alt="shadowkai0121" height="30" width="40" />
-    </a>
-</p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Backend</h4>
